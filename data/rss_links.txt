@@ -1,0 +1,9 @@
+http://mangapark.me/rss/manga/tokyo-ghoul-re.xml
+http://mangapark.me/rss/manga/yakusoku-no-neverland-1.xml
+http://mangafox.me/rss/overlord.xml
+http://mangafox.me/rss/ajin.xml
+http://mangafox.me/rss/owari_no_seraph.xml
+http://mangafox.me/rss/black_haze.xml
+http://mangapark.me/rss/manga/noragami.xml
+http://feeds.bbci.co.uk/news/rss.xml
+http://feeds.feedburner.com/crunchyroll/rss/anime?format=xml
